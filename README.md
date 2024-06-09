@@ -1,1 +1,3 @@
-# Pikachu
+Pichu
+pikachu
+Raichu
